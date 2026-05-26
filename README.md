@@ -1,1 +1,1 @@
-This repository contains all the reference matrtial required to fullfill the Matrix Hackathon successfully. 
+This repository contains all the matrtials used and required to make idea into successful execution in Matrix Hackathon 2026
